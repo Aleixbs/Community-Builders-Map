@@ -1,4 +1,3 @@
-# Import necessary modules
 import arcpy
 import unicodedata
 import re
